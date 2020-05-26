@@ -3,11 +3,11 @@ Graduate Student at Rutgers University
 ## Education
 
 `2015 - 2019`
-__Pune Insititute of Computer Technology__
+__Pune Insititute of Computer Technology,__
 BS in Compute Science
 
 `2019 - 2021`
-__Rutgers University__
+__Rutgers University,__
 Masters in Computer Science 
 
 ## Awards
