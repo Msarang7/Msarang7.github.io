@@ -42,7 +42,7 @@ Winner of Best Project in Machine Learning Domain, INC 2019
 [3] "Decentralization of Social Media Using Blockchain," [[paper]](https://arxiv.org/abs/1811.11522.)
 
 
-## Occupation
+## Work Experience
 
 `June 2018 - May 2019`
 __Machine Learning Intern__, Persistent Systems Limited 
