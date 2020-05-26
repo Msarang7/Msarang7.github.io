@@ -17,8 +17,14 @@ Masters in Computer Science
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2017`
+Recipient of ACM Grant, Compute 2017
+
+`2018`
+Best Studnet Chapter , Association of Computing Machinery 
+
+`2019`
+Best Student Chapter, Association of Computing Machinery
 
 ## Publications
 
