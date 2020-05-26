@@ -1,6 +1,3 @@
-
-## Currently
-
 Graduate Student at Rutgers University
 
 ## Education
