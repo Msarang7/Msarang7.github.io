@@ -1,6 +1,4 @@
----
-layout: resume
----
+
 ## Currently
 
 Graduate Student at Rutgers University
