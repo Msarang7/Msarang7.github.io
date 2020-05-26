@@ -21,10 +21,16 @@ Masters in Computer Science
 Recipient of ACM Grant, Compute 2017
 
 `2018`
-Best Studnet Chapter , Association of Computing Machinery 
+Best Studnet Chapter in India , Association of Computing Machinery 
 
 `2019`
-Best Student Chapter, Association of Computing Machinery
+Best Student Chapter in India, Association of Computing Machinery
+
+`2019`
+Winner of Best Open Source Project, INC 2019
+
+`2019`
+Winner of Best Project in Machine Learning Domain, INC 2019
 
 ## Publications
 
