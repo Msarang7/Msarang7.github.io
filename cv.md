@@ -44,7 +44,7 @@ Winner of Best Project in Machine Learning Domain, INC 2019
 
 ## Occupation
 
-`June 2018 - May 2019t`
+`June 2018 - May 2019`
 __Machine Learning Intern__, Persistent Systems Limited 
 
 - DeployedaDeepLearningmodelthatperformsearlydiagnosisofmultiplediseaseslikeLymphoma,Pneumonia,DiabeticRetinopathyand Lung Cancer to aid pathologists.
