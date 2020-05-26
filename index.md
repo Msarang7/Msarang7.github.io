@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Welcome to my page. I am a final year Masters Student at Rutgers University, pursuing a degree in computer science. My interests are Artificial Intelligence, Machine Learning, Statistics and Probability. 
 
 ## Current Interests and Projects:
 
