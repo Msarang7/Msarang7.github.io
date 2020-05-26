@@ -44,17 +44,12 @@ Winner of Best Project in Machine Learning Domain, INC 2019
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
+`June 2018 - May 2019t`
+__Machine Learning Intern__, Persistent Systems Limited 
 
-- Task
-- Task
+- DeployedaDeepLearningmodelthatperformsearlydiagnosisofmultiplediseaseslikeLymphoma,Pneumonia,DiabeticRetinopathyand Lung Cancer to aid pathologists.
 
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+- ProcessedimagesofcellsandX-RayswereuploadedtotheinterfaceprovidedforRadiologistsandPathologiststhatprovidedasecondopinion to their own diagnosis.
 
 
 
