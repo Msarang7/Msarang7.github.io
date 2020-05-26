@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: # Enter title of website here
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Sarang Mahajan
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "Masters student in Computer Science at Rutgers University"
+  email: sarang.mahajan@rutgers.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  twitter: sarangmahajan17
+  linkedin: msarang7
+  github: Msarang7
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -21,9 +21,9 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: 
   facebook: #username
-  instagram: #username
+  instagram: sarangm7
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
