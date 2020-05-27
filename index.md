@@ -9,5 +9,5 @@ I blog on the following topics but not limited to : AI, Probability, Statistics,
 
 ## Current Interests and Projects:
 
-- [Medium Page] - (https://medium.com/@Msarang7)
+- [Medium Page](https://medium.com/@Msarang7)
 - 
