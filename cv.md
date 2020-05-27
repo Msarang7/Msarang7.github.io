@@ -44,9 +44,9 @@ Winner of Best Project in Machine Learning Domain, INC 2019
 `June 2018 - May 2019`
 __Machine Learning Intern__, Persistent Systems Limited 
 
-- DeployedaDeepLearningmodelthatperformsearlydiagnosisofmultiplediseaseslikeLymphoma,Pneumonia,DiabeticRetinopathyand Lung Cancer to aid pathologists.
+- Deployeda Deep Learning model that performs early diagnosis of multiple diseases like Lymphoma ,Pneumonia, Diabetic Retinopathy and Lung Cancer to aid pathologists.
 
-- ProcessedimagesofcellsandX-RayswereuploadedtotheinterfaceprovidedforRadiologistsandPathologiststhatprovidedasecondopinion to their own diagnosis.
+- Processed images of cells and X-Rays were uploaded to the interface provided for Radiologists and Pathologists that provided a second opinion to their own diagnosis.
 
 
 
