@@ -10,4 +10,4 @@ I blog on the following topics but not limited to : AI, Probability, Statistics,
 ## Current Interests and Projects:
 
 - Link to my [Medium page](https://medium.com/@Msarang7)
-- 
+- Series of articles upcoming on Reinforcement Learning.
