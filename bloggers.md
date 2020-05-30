@@ -1,4 +1,4 @@
-**Links to my friends' blogs and some other interesting blogs **
+**Links to my friends' blogs and some other interesting blogs**
 
 
 - [Ying-Ru Qiu](http://yingruqiu.com) : Studying at Rutgers University,  Ying-Ru is a perspicacious individual interested in AI, human memory and learning mechanism.
