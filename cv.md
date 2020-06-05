@@ -4,7 +4,7 @@ Graduate Student at Rutgers University
 
 `2015 - 2019`
 __Pune Insititute of Computer Technology,__
-BS in Compute Science
+Bachelors in Computer Science
 
 `2019 - 2021`
 __Rutgers University,__
